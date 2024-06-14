@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+meenakshi,Chrome 126.0.0.0,,,14-06-2024 14:28:35,14-06-2024 14:33:45,5m - 10.184s,FAILED
+,,,,,,,
+Test Cases/Assesment2/Meenakshi Government college,Chrome 126.0.0.0,,,14-06-2024 14:32:46,14-06-2024 14:33:42,55.906s,FAILED
+"openBrowser("""")",Chrome 126.0.0.0,,,14-06-2024 14:32:46,14-06-2024 14:32:48,2.276s,PASSED
+"navigateToUrl(""https://smgacw.org/"")",Chrome 126.0.0.0,,,14-06-2024 14:32:48,14-06-2024 14:32:57,9.167s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_Sri Meenakshi Government Arts College _7b408a/img_UG Admission Rank List 2024-2025_wp-image-2927""))",Chrome 126.0.0.0,,,14-06-2024 14:32:57,14-06-2024 14:32:57,0.340s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_Sri Meenakshi Government Arts College _7b408a/img_UG Admission Rank List 2024-2025_wp-image-2928""))",Chrome 126.0.0.0,,,14-06-2024 14:32:57,14-06-2024 14:32:59,1.932s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_Sri Meenakshi Government Arts College _7b408a/span_NIRF-2024_mobile_menu_bar""))",Chrome 126.0.0.0,,,14-06-2024 14:32:59,14-06-2024 14:33:01,1.888s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_Sri Meenakshi Government Arts College _7b408a/a_Administration""))",Chrome 126.0.0.0,,,14-06-2024 14:33:01,14-06-2024 14:33:03,2.006s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_Sri Meenakshi Government Arts College _7b408a/span_NIRF-2024_mobile_menu_bar""))",Chrome 126.0.0.0,,,14-06-2024 14:33:03,14-06-2024 14:33:05,1.958s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_Sri Meenakshi Government Arts College _7b408a/a_Departments""))",Chrome 126.0.0.0,,,14-06-2024 14:33:05,14-06-2024 14:33:09,3.969s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_Departments  Sri Meenakshi Government _6694ff/span_NIRF-2024_mobile_menu_bar""))",Chrome 126.0.0.0,,,14-06-2024 14:33:09,14-06-2024 14:33:11,2.117s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_Departments  Sri Meenakshi Government _6694ff/a_COE""))",Chrome 126.0.0.0,,,14-06-2024 14:33:11,14-06-2024 14:33:16,4.497s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_COE  Sri Meenakshi Government Arts Col_fee287/span_NIRF-2024_mobile_menu_bar""))",Chrome 126.0.0.0,,,14-06-2024 14:33:16,14-06-2024 14:33:17,1.426s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_COE  Sri Meenakshi Government Arts Col_fee287/a_IQAC""))",Chrome 126.0.0.0,,,14-06-2024 14:33:17,14-06-2024 14:33:30,12.229s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_IQAC  Sri Meenakshi Government Arts Co_3362d5/span_NIRF-2024_mobile_menu_bar""))",Chrome 126.0.0.0,,,14-06-2024 14:33:30,14-06-2024 14:33:31,1.834s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_IQAC  Sri Meenakshi Government Arts Co_3362d5/a_IQAC""))",Chrome 126.0.0.0,,,14-06-2024 14:33:31,14-06-2024 14:33:34,2.498s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_IQAC  Sri Meenakshi Government Arts Co_3362d5/span_NIRF-2024_mobile_menu_bar""))",Chrome 126.0.0.0,,,14-06-2024 14:33:34,14-06-2024 14:33:35,1.470s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_IQAC  Sri Meenakshi Government Arts Co_3362d5/a_Econtent""))",Chrome 126.0.0.0,,,14-06-2024 14:33:35,14-06-2024 14:33:40,4.283s,PASSED
+"click(findTestObject(""Object Repository/Meenakshi/Page_Econtent  Sri Meenakshi Government Art_be2585/a_NAAC""))",Chrome 126.0.0.0,,,14-06-2024 14:33:40,14-06-2024 14:33:42,1.982s,FAILED
